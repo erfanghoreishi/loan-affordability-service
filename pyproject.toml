@@ -1,7 +1,7 @@
 [project]
 name = "loan-affordability-checker"
 version = "0.1.0"
-description = "CLI tool for mortgage affordability calculations"
+description = "An extensible Python service built for automated loan affordability assessment and lending decisioning."
 authors = [
     {name = "Erfan Ghoreishi"}
 ]
