@@ -36,6 +36,9 @@ htmlcov/
 .idea/
 *.swp
 
+# GitHub configuration
+.github/
+
 # macOS
 .DS_Store
 
